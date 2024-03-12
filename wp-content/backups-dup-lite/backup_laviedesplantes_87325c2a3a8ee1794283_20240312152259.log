@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2024-03-12 15:23
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.8.1
+WORDPRESS:	6.4.3
+PHP INFO:	8.2.0 | SAPI: apache2handler
+SERVER:		Apache/2.4.54 (Unix) OpenSSL/1.0.2u PHP/8.2.0 mod_wsgi/3.5 Python/2.7.18 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 115MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:107 | filtered:0 | create:107
+FILTERED: []
+SQL CREATED: backup_laviedesplantes_87325c2a3a8ee1794283_20240312152259_database.sql
+SQL FILE SIZE: 17.36MB (18203068)
+SQL FILE TIME: 2024-03-12 15:23:27
+SQL RUNTIME: 2.01 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /Applications/MAMP/htdocs/wordpress
+ARCHIVE FILE: backup_laviedesplantes_87325c2a3a8ee1794283_20240312152259_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	252.94MB
+STATS:	Dirs 2,293 | Files 13,726
+SQL ADDED: backup_laviedesplantes_87325c2a3a8ee1794283_20240312152259_database.sql
+ZipArchive Object
+(
+    [lastId] => 16018
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 16019
+    [filename] => /Applications/MAMP/htdocs/wordpress/wp-content/backups-dup-lite/tmp/backup_laviedesplantes_87325c2a3a8ee1794283_20240312152259_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 16018
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 85.62MB
+ARCHIVE RUNTIME: 64.19 sec.
+MEMORY STACK: 121.05MB
+building installer
+TEST DE COHÉRENCE D’ARCHIVE : RÉUSSITE
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 17.36MB
+INSTALLER FILE: 73.48KB
+ARCHIVE FILE: 87.68MB 
+COMPTE ATTENDU DE FICHIERS/RÉPERTOIRES : 16,019
+COMPTE ACTUEL DE FICHIERS/RÉPERTOIRES : 16,018
+TEST DE COHÉRENCE D’ARCHIVE : Bon
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 92.07 sec.
+PEAK PHP MEMORY USED: 158.75MB
+DONE PROCESSING => backup_laviedesplantes 2024-03-12 15:24
+
